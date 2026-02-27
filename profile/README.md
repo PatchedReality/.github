@@ -30,5 +30,3 @@ If you're building something in the spatial computing space and want to collabor
 tools, feel free to open an issue on the relevant repo or reach us at [patchedreality.com](https://patchedreality.com).
 
 ---
-
-*Patching Realities since 2009.*
