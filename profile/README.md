@@ -2,7 +2,7 @@
 
 We're an AR/VR and spatial computing studio that has been building 
 creative, technically robust experiences since 2009. From mobile AR 
-apps to Apple Vision Pro to WebXR, we work at the bleeding edge of 
+apps to Apple Vision Pro to WebXR and the open metaverse, we like working on the frontier of 
 immersive technology.
 
 🌐 [patchedreality.com](https://patchedreality.com)
@@ -24,15 +24,10 @@ Here are our open source tools:
 
 ## About Us
 
-Patched Reality partners with clients to build AR and VR applications 
-across mobile, headsets, and the web. We've shipped projects for 
-organizations like the American Museum of Natural History and worked 
-across platforms including ARKit, ARCore, Apple Vision Pro, and WebXR.
+Patched Reality partners with clients to build AR and VR applications across mobile, headsets, and the web. We've shipped projects for organizations like the American Museum of Natural History, IKEA, and BP, on platforms such as ARKit, ARCore, Apple Vision Pro, WebXR and RP1.
 
-If you're building something in the spatial computing space and want 
-to collaborate or just have a question about one of our open source 
-tools, feel free to open an issue on the relevant repo or reach us at 
-[patchedreality.com](https://patchedreality.com).
+If you're building something in the spatial computing space and want to collaborate or just have a question about one of our open source 
+tools, feel free to open an issue on the relevant repo or reach us at [patchedreality.com](https://patchedreality.com).
 
 ---
 
